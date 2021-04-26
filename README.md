@@ -11,6 +11,8 @@ We don't recommend any lower version of Ubuntu.
 
 Also we cannot offer installation-guides for other Linux-Distributions than Ubuntu.
 
+Command-Parameters for the "putincoind"-CLI Daemon you can find here: https://en.bitcoin.it/wiki/Original_Bitcoin_client/API_calls_list
+
 
 
 
