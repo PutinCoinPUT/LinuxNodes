@@ -118,7 +118,7 @@ Save. (Strg-X -> Y)
 
 $ putincoind &
 
-Wallet-Deamon should be running now, check by entering
+Wallet-Daemon should be running now, check by entering
 
 $ putincoind getinfo
 
