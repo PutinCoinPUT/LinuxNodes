@@ -14,7 +14,7 @@ Also we cannot offer installation-guides for other Linux-Distributions than Ubun
 
 
 
-If you got Ubuntu 16.04
+If you got Ubuntu 16.04:
 
 $ sudo -s
 
@@ -31,7 +31,7 @@ GUI-Node: $ tar xzf PutinCoin-qt.tar.gz (We think it's easiest to put a symlink 
 
 
 
-If you got Ubuntu 18.04 and higher, do the following:
+If you got Ubuntu 18.04 and higher:
 
 $ sudo -s
 
