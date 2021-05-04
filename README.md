@@ -30,6 +30,10 @@ CLI-Node: $ tar xzf putincoind.tar.gz -> cp putincoind /usr/bin (further install
 
 GUI-Node: $ tar xzf PutinCoin-qt.tar.gz (We think it's easiest to put a symlink to "Putincoin-qt" on Desktop)
 
+$ chmod 755 putincoind
+
+$ chmod 755 PutinCoin-qt
+
 
 
 
