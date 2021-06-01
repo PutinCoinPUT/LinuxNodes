@@ -58,7 +58,7 @@ Save. (Strg-X -> Y)
 
 $ apt -y update
 
-$ apt -y install libboost-system1.58.0 libboost-mpi1.58.0 libboost-graph-parallel1.58.0 libboost-program-options1.58.0 libboost-thread1.58.0 libboost_filesystem1.58.0 libqt5gui5 libdb5.3++-dev libdb5.3++ libopenmpi1.10 qrencode libminiupnpc10 git
+$ apt -y install libboost-system1.58.0 libboost-mpi1.58.0 libboost-graph-parallel1.58.0 libboost-program-options1.58.0 libboost-thread1.58.0 libqt5gui5 libdb5.3++-dev libdb5.3++ libopenmpi1.10 qrencode libminiupnpc10 git
 
 $ wget http://archive.ubuntu.com/ubuntu/pool/main/b/boost1.58/libboost-filesystem1.58.0_1.58.0+dfsg-5ubuntu3.1_amd64.deb
 
