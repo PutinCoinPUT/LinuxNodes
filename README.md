@@ -154,7 +154,7 @@ User=root
 Group=root
 Type=forking
 #PIDFile=/home/REPLACE BY YOUR USERNAME !!/.putincoin/putincoind.pid
-ExecStart=/usr/bin/putincoind -conf=/home/REPLACE BY YOUR USERNAME !!/.putincoin/putincoin.conf
+ExecStart=/usr/bin/putincoind -conf=/home/REPLACE BY YOUR USERNAME !!/.putincoin/putincoin.conf -datadir=/home/REPLACE BY YOUR USERNAME !!/.putincoin
 KillMode=process
 Restart=always
 TimeoutSec=120
