@@ -5,7 +5,7 @@ Here you can clone/download the Linux-Node Wallets for PUTinCoin:
 putincoind.tar.gz = Linux CLI-node
 PutinCoin-qt.tar.gz = Linux GUI Node Wallet
 
-We recommend you to use Ubuntu 16.04, as the code was developed on it and it got all neccessary depencencies.
+We recommend you to use Ubuntu 18.04, as the code was developed on it and it got all neccessary depencencies.
 
 We don't recommend any lower version of Ubuntu. 
 
@@ -14,30 +14,7 @@ Also we cannot offer installation-guides for other Linux-Distributions than Ubun
 Command-Parameters for the "putincoind"-CLI Daemon you can find here: https://en.bitcoin.it/wiki/Original_Bitcoin_client/API_calls_list
 
 
-
-
-If you got Ubuntu 16.04:
-
-$ sudo -s
-
-$ apt-get install build-essential libssl-dev libdb-dev libdb++-dev libboost-all-dev git libssl1.0.0-dbg libdb-dev libdb++-dev libboost-all-dev libminiupnpc-dev libevent-dev libcrypto++-dev libgmp3-dev git
-
-$ git clone https://github.com/PutinCoinPUT/LinuxNodes
-
-$ cd LinuxNodes
-
-CLI-Node: $ tar xzf putincoind.tar.gz -> cp putincoind /usr/bin (further installation see "CLI-Setup" below)
-
-GUI-Node: $ tar xzf PutinCoin-qt.tar.gz (We think it's easiest to put a symlink to "Putincoin-qt" on Desktop)
-
-$ chmod 755 putincoind
-
-$ chmod 755 PutinCoin-qt
-
-
-
-
-If you got Ubuntu 18.04 and higher:
+Ubuntu 18.04 and higher:
 
 $ sudo -s
 
