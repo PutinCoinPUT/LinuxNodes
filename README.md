@@ -45,18 +45,18 @@ $ git clone https://github.com/PutinCoinPUT/LinuxNodes
 
 $ cd LinuxNodes
 
-CLI-Node: $ tar xzf putincoind.tar.gz (further installation see "CLI-Setup" below)
+<strong>CLI-Node:</strong> $ tar xzf putincoind.tar.gz (further installation <strong>see "CLI-Setup:" below</strong>)
 
-GUI-Node: $ tar xzf PutinCoin-qt.tar.gz (We think it's easiest to put a symlink to "Putincoin-qt" on Desktop)
+<strong>GUI-Node:</strong> $ tar xzf PutinCoin-qt.tar.gz (We think it's easiest to put a symlink to "Putincoin-qt" on Desktop)
 
-$ chmod 755 putincoind
+$ chmod 755 putincoind <strong>(only for CLI)</strong>
 
-$ chmod 755 PutinCoin-qt
-
-
+$ chmod 755 PutinCoin-qt <strong>(only for GUI)</strong>
 
 
-CLI-Setup
+
+
+<strong>CLI-Setup:</strong>
 
 $ sudo -s
 
