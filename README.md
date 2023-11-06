@@ -5,7 +5,7 @@ Here you can clone/download the Linux-Node Wallets for PUTinCoin:
 putincoind.tar.gz = Linux CLI-node
 PutinCoin-qt.tar.gz = Linux GUI Node Wallet
 
-IMPORTANT: If you update an existing wallet, pls. shut down the old wallet, if it is running.
+IMPORTANT: If you update an existing wallet, just replace the old executable with the new one, but pls. shut down the old wallet before, if it is running.
 
 We recommend you to use Ubuntu 18.04, as the code was developed on it and it got all neccessary depencencies.
 
