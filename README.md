@@ -2,18 +2,18 @@
 
 Here you can clone/download the Linux-Node Wallets for PUTinCoin:
 
-putincoind.tar.gz = Linux CLI-node
-PutinCoin-qt-ubuntu.tar.gz = Ubuntu Linux GUI Node Wallet (tested up to Ubuntu 18.04)
-PutinCoin-qt-mint.tar.gz = Mint Linux GUI Node Wallet (tested with Cinnamon Edition)
-PutinCoin-qt-kali.tar.gz = Mint Linux GUI Node Wallet (tested with Kali Linux 2023.4)
+putincoind.tar.gz = Linux CLI-node<br />
+PutinCoin-qt-ubuntu.tar.gz = Ubuntu Linux GUI Node Wallet (tested up to Ubuntu 18.04)<br />
+PutinCoin-qt-mint.tar.gz = Mint Linux GUI Node Wallet (tested with Cinnamon Edition)<br />
+PutinCoin-qt-kali.tar.gz = Mint Linux GUI Node Wallet (tested with Kali Linux 2023.4)<br />
 
 IMPORTANT: If you update an existing wallet, just replace the old executable with the new one, but pls. shut down the old wallet before, if it is running.
 
 We recommend you to use Ubuntu 18.04, as the code was developed on it and it got all neccessary depencencies.
 
-We don't recommend any lower version of Ubuntu. 
+We don't recommend any lower version of Ubuntu, Mint & Kali. 
 
-Also we cannot offer installation-guides for other Linux-Distributions than Ubuntu.
+Also we cannot offer a detailed installation-guide for other Linux-Distributions than Ubuntu.
 
 Command-Parameters for the "putincoind"-CLI Daemon you can find here: https://en.bitcoin.it/wiki/Original_Bitcoin_client/API_calls_list
 
